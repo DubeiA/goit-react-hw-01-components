@@ -7,9 +7,7 @@ import { Statistics } from "./Statistics/Statistics";
 import { FriendList } from "./Friends/FriendsList";
 import { TransactionHistory } from "./Transaction/Transaction";
 
-
-
-console.log(transactions);
+// console.log(transactions);
 
 export const App = () => {
   return (
